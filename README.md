@@ -6,3 +6,5 @@ Práctica de Git y GitHub.
 - Git: control de versiones.
 - Docker: ejecución de aplicaciones en contenedores.
 - PostgreSQL: gestión de bases de datos relacionales.
+
+Mi objetivo en este módulo es aprender a trabajar con datos.
